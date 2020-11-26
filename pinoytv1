@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg",Kapamilya Channel
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+#EXTIMG:https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg
+https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bworldonline.com/wp-content/uploads/2018/12/TV5-Logo.jpg",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1626040967_b628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bworldonline.com/wp-content/uploads/2018/12/TV5-Logo.jpg",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/TV5_One_Sports_Channel.png/revision/latest/scale-to-width-down/340?cb=20181221055916",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w213814142_b1128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/TV5_One_Sports_Channel.png/revision/latest/scale-to-width-down/340?cb=20181221055916",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/218-2187736_ptv-4-peoples-television-logo-june-2017-peoples.png",PTV4
+https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwPOszlKbNvTFlEqxXthiot4)/dm/3/x5cr6b9/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.tfc.tv/xcms/categoryimages/2089/456x256xx_289x163.jpg",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.tfc.tv/xcms/categoryimages/7170/TFCtv-STANDARDSHOWTHUMBNAIL-456x256_289x163.jpg",Knowledge Channel
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
+
+#EXTINF:-1 tvg-id="cnnphilippines.ph" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/access/images/cnn-101414.jpg" ,CNN Philippines (Opt-1)
+#EXTIMG:https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/access/images/cnn-101414.jpg
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+
+#EXTINF:-1 tvg-id="cnnphilippines.ph" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/access/images/cnn-101414.jpg" ,CNN Philippines (Opt-2)
+#EXTIMG:https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/access/images/cnn-101414.jpg
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/AyqNnHj.png" tvg-country="PH" tvg-url="" ,CNN Philippines (Opt-3)
+https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.untvweb.com/news/wp-content/themes/news-2019/images/untv-news-and-rescue-logo.png",UNTV
+https://www.untvweb.com/live-stream/untvweb.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Hope_Channel_2016.png/revision/latest/scale-to-width-down/340?cb=20190218141737",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQuPbW8.png" ,TV Shop
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/l2JSQme.png" tvg-country="PH" tvg-url="" ,SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Y1VGr5S.jpg" tvg-country="PH" tvg-url="",Pilipinas HD
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/PwUFKik.jpg" tvg-country="PH" tvg-url="" ,Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/i5G9fpD.jpg" tvg-country="PH" tvg-url="" group-title="",Inquirer 990 Television
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/HSklqOj.jpg" tvg-country="PH" tvg-url="" group-title="",Inquirer 990 Television
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
